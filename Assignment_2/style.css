@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+.logo{
+    background-image: url(img/logo.png);
+    width: 160px;
+    height: 100px;
+    margin-left: 550px;
+    margin-bottom: 0;
+}
+
+.bar{
+    width: 818px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-left: 231px;
+    margin-top: 0;
+    
+}
+
+.item{
+    display: inline;
+    padding-right:100px;
+    font-size: 22px;
+    
+    
+}
+
+.img{
+    background-image: url(img/bi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 68%;
+    height: 42vh;
+    margin: 20px 0 0 230px;    
+}
+
+.para1{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 260px;
+    margin-right: 260px ;
+    margin-bottom: 10px;
+    
+}
+
+
+.box{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    margin-left: 500px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 6px;
+    
+}
